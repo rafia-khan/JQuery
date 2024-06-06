@@ -1,0 +1,4 @@
+$("p,h2").addClass("style1 style2")
+
+
+
